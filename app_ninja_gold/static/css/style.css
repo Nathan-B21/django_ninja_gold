@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* table{
+} */
+
+#lowersection{
+    display:flex;
+    width:100%;
+    justify-content:center;
+}
+.box{
+    display:flex;
+    height:101px;
+    width: 300px;
+    overflow:auto;
+    justify-content: center;
+
+}
